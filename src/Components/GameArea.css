@@ -1,0 +1,12 @@
+.gameArea-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.speedSlider-container {
+  margin-top: 10px;
+}
+
+.currentRound-container {
+  margin-top: 20px;
+}

@@ -1,0 +1,18 @@
+.MultiplierGraph {
+  padding: 10px;
+  background-color: #222;
+  border-radius: 20px;
+  height: 65%;
+  margin-right: 20px;
+  width: 40%;
+  margin-top: 20px;
+}
+
+.GraphPlaceholder {
+  color: #fff;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: block;
+  height: 467px;
+  width: 659px;
+}

@@ -1,0 +1,49 @@
+.Header {
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  background-color: #333;
+  color: white;
+  height: 50px;
+  border-radius: 10px;
+  gap: 1rem;
+  padding: 0.5rem;
+  justify-content: center;
+  border-radius: 20px;
+}
+
+.Header-info,
+.Header-user {
+  display: flex;
+  gap: 1px;
+}
+
+.points,
+.username,
+.time {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: #222;
+  border-radius: 5px;
+}
+
+.username {
+  margin: 0 1rem;
+}
+
+.time {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.header div,
+.header span {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.points span {
+  margin-left: 0.5rem;
+}

@@ -1,0 +1,22 @@
+.CurrentRound {
+  padding: 10px;
+  background-color: #222;
+  color: white;
+  border-radius: 20px;
+}
+
+.RoundTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.RoundTable th,
+.RoundTable td {
+  text-align: left;
+  padding: 8px;
+}
+
+.RoundTable th {
+  background-color: #333;
+}

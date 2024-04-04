@@ -1,0 +1,28 @@
+.Chat {
+  padding: 10px;
+  background-color: #222;
+  border-radius: 20px;
+}
+
+.ChatMessages {
+  height: 150px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  height: 120px;
+}
+
+.Message {
+  background-color: #333;
+  padding: 5px;
+  margin: 5px 0;
+  border-radius: 20px;
+}
+
+.ChatInput {
+  display: flex;
+}
+
+.Chat-input {
+  margin-right: 5px;
+  border-radius: 22px;
+}
